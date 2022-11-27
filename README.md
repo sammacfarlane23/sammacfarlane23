@@ -14,6 +14,6 @@ A frontend developer specialising in JavaScript technologies. I have professiona
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammacfaralane23&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammacfaralane23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammacfarlane23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
