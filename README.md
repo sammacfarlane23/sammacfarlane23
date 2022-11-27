@@ -16,4 +16,4 @@ A frontend developer specialising in JavaScript technologies. I have professiona
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammacfarlane23&hide=Handlebars&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammacfarlane23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammacfarlane23&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
