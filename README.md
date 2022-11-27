@@ -2,7 +2,7 @@
 
 ---
 
-A frontend developer specialising in JavaScript technologies. I have professional experience with the tools listed in the toolbox below
+A frontend developer specialising in JavaScript technologies. I have around 2 years of professional experience with the tools listed in the toolbox below.
 
 ---
 
