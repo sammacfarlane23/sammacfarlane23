@@ -8,7 +8,7 @@ A frontend developer specialising in JavaScript technologies. I have professiona
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="[https://cdn.worldvectorlogo.com/logos/css3.svg](https://cdn.worldvectorlogo.com/logos/css-3.svg)" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 
 ---
