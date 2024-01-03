@@ -2,13 +2,13 @@
 
 ---
 
-A frontend developer specialising in JavaScript technologies. I have around 2 years of professional experience with the tools listed in the toolbox below.
+A frontend engineer specialising in JavaScript technologies. I have over 3 years of professional experience, utilising the tools listed in the toolbox below.
 
 ---
 
 ### 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node Logo" width="50" height="50"/>
 
 ---
 
